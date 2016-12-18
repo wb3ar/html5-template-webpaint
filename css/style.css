@@ -199,7 +199,7 @@ h2 {
     content: "";
     width: 20px;
     height: 20px;
-    background: url("images/Fill.png") 50% 20% no-repeat;
+    background: url("../images/Fill.png") 50% 20% no-repeat;
 }
 
 .phone::before {
@@ -208,7 +208,7 @@ h2 {
     content: "";
     width: 20px;
     height: 20px;
-    background: url("images/Phone.png") 50% 20% no-repeat;
+    background: url("../images/Phone.png") 50% 20% no-repeat;
 }
 
 .phone {
@@ -237,23 +237,23 @@ footer {
 }
 
 .rss {
-    background: url("images/Social Icons.png") 0 0 no-repeat;
+    background: url("../images/Social Icons.png") 0 0 no-repeat;
 }
 
 .fb {
-    background: url("images/Social Icons.png") -37px 0 no-repeat;
+    background: url("../images/Social Icons.png") -37px 0 no-repeat;
 }
 
 .tw {
-    background: url("images/Social Icons.png") -74px 0 no-repeat;
+    background: url("../images/Social Icons.png") -74px 0 no-repeat;
 }
 
 .dr {
-    background: url("images/Social Icons.png") -111px 0 no-repeat;
+    background: url("../images/Social Icons.png") -111px 0 no-repeat;
 }
 
 .pi {
-    background: url("images/Social Icons.png") -148px 0 no-repeat;
+    background: url("../images/Social Icons.png") -148px 0 no-repeat;
 }
 
 .soc:nth-of-type(5) {
