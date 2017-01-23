@@ -46,8 +46,13 @@ menu>li>a {
     color: #d9d9d9;
 }
 
+menu>li>a:hover {
+  color: #D35A56;
+}
+
 menu>.active {
     color: #ff6760;
+    cursor: default;
 }
 
 .logo {
@@ -145,6 +150,10 @@ h2 {
 .button-red.small.active {
     background-color: #595959;
     cursor: default;
+}
+
+.button-red:hover:not(.active) {
+    background-color: #D35A56;
 }
 
 .filters {
